@@ -14,9 +14,12 @@ font-weight: 700;
 background-image: linear-gradient(purple,navy);
 padding: 15px 30px;
 
+
 border-radius: 100px;
 }
 .head{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.top-description{color: orangered;
+height: 25%;}
