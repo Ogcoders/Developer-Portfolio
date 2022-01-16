@@ -1,0 +1,8 @@
+body{font-family: 'Mochiy Pop P One', sans-serif;}
+h1{font-size: 50px;}
+span{color: orangered;}
+section{display: flex;
+    width: 100%;}
+.half-width{width: 50%;
+width: 300px;
+padding-left: 10%}
