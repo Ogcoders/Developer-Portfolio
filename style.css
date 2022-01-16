@@ -1,8 +1,21 @@
-body{font-family: 'Mochiy Pop P One', sans-serif;}
+body{font-family: 'Mochiy Pop P One', sans-serif;
+margin: 0px;}
 h1{font-size: 50px;}
 span{color: orangered;}
 section{display: flex;
     width: 100%;}
 .half-width{width: 50%;
-width: 300px;
-padding-left: 10%}
+padding-left: 10%;}
+.my-pic{width: 70%; height: 80%;
+padding-top: 10%;}
+.hire-me{color: lightgrey;
+text-decoration: none;
+font-weight: 700;
+background-image: linear-gradient(purple,navy);
+padding: 11px 30px;
+border-radius: 100px;
+}
+.head{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
